@@ -1,2 +1,3 @@
-# linear_regression_models
-Repository for linear regression models implemented in machine learning.
+## Linear regression models
+
+Collection of linear regression models implemented with different technics along with example datasets and scripts for training, evaluation, and visualization. 🤖
